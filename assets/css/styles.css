@@ -262,7 +262,7 @@ a {
     object-fit: cover;
 }
 .hero__img:first-child {
-    position: relative;
+    /* position: relative; */
     margin-right: -6px;
     z-index: 1;
 }
